@@ -9,6 +9,9 @@
 ![‏‏لقطة الشاشة (65)](https://user-images.githubusercontent.com/52765342/213193148-8a3a608c-dd11-43d3-bfe4-42d280388e02.png)
 
 moveUp: y-=ySpeed
+
 moveDown: y+=ySpeed
+
 moveLeft: x-=xSpeed
+
 moveRight: x+=xSpeed
